@@ -1,10 +1,10 @@
 # Hello👋🏽 , I'm Fehn 🙂
 
-## A Project Manager 💼 | Software Engineer 💻 | Quality Analyst 📉📈
+### A Project Manager 💼 | Software Engineer 💻 | Quality Analyst 📉📈 | Business Analyst 📊
 
 I develop Fullstack Websites 🖥✨ <br>
 I love Python 🐍 <br>
-I am an AI enthusiast 🤖 <br>
+I am an AI and Big Data enthusiast 🤖 <br>
 I design on Canva 🎨 and share coding tips on [Tiktok](https://www.tiktok.com/@dev2.03?_t=ZM-8w15dl2L7wt&_r=1)
 
 
