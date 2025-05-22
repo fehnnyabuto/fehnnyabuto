@@ -2,7 +2,7 @@
 
 ### A Project Manager 💼 | Software Engineer 💻 | Quality Analyst 📉📈 | Business Analyst 📊
 
-I develop Fullstack Websites 🖥✨ <br>
+I develop Fullstack Websites & Web Apps 🖥✨ <br>
 I love Python 🐍 <br>
 I am an AI and Big Data enthusiast 🤖 <br>
 I design on Canva 🎨 
