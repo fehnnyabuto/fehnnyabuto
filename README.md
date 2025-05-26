@@ -5,6 +5,7 @@
 I develop Fullstack Websites & Web Apps 🖥✨ <br>
 I love Python 🐍 <br>
 I am an AI and Big Data enthusiast 🤖 <br>
+I plan and monitor on Jira & Microsoft Project 📝 <br>
 I design on Figma & Canva 🎨 
 <!-- and share coding tips on [Tiktok](https://www.tiktok.com/@dev2.03?_t=ZM-8w15dl2L7wt&_r=1) -->
 
