@@ -1,6 +1,6 @@
 # Hello👋🏽 , I'm Fehn 🙂
 
-### A Project Manager 💼 | Business Systems Analyst 📊 | Software Engineer 💻 
+### A Project Manager 💼 | Business Systems Analyst 📊 | Systems Engineer 💻 
 
 I develop Fullstack Websites & Web Apps 🖥✨ <br>
 I love Python 🐍 and SQL 📇 <br>
