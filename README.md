@@ -1,4 +1,4 @@
-# Hello👋🏽 , I'm Fehn 🙂
+# Hello👋🏽 , I'm Fehn 😊
 
 ### A Project Manager 💼 | Business Systems Analyst 📊 | Systems Engineer 💻 
 
