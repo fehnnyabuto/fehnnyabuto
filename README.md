@@ -1,12 +1,13 @@
 # Hello👋🏽 , I'm Fehn 🙂
 
-### A Project Manager 💼 | Software Engineer 💻 | Quality Analyst 📉📈 | Business Analyst 📊
+### A Project Manager 💼 | Business Systems Analyst 📊 | Software Engineer 💻 
 
 I develop Fullstack Websites & Web Apps 🖥✨ <br>
-I love Python 🐍 <br>
+I love Python 🐍 and SQL 📇 <br>
 I am an AI and Big Data enthusiast 🤖 <br>
 I plan and monitor on Jira & Microsoft Project 📝 <br>
-I design on Figma & Canva 🎨 
+I design on Visio, Draw and Figma 🎨 <br>
+I analyze with Excel, PowerBI and Tableau 📈
 <!-- and share coding tips on [Tiktok](https://www.tiktok.com/@dev2.03?_t=ZM-8w15dl2L7wt&_r=1) -->
 
 ## 💻 Tech Stack:
